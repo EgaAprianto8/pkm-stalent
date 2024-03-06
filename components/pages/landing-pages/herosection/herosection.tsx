@@ -9,7 +9,7 @@ const HeroSection = () => {
         <div className='flex flex-col max-w-[700px] min-w-[200px]'>
           <div>
           <h3 className='font-bold text-6xl  leading-normal'>
-          "Setiap Langkah adalah Karya Seni, Selami Minatmu Melalui Dunia Olahraga!"
+          &quot;Setiap Langkah adalah Karya Seni, Selami Minatmu Melalui Dunia Olahraga!&quot;
           </h3>
           </div>
           <div className='mb-10 mt-2'>
@@ -24,7 +24,7 @@ const HeroSection = () => {
           </div>
           <div className='my-12'>
             <p className='font-semibold text-2xl'>
-            Let's make your work more organize and easily using the Taskio Dashboard with many of the latest featuresin managing work every day.
+            Let&apos;s make your work more organize and easily using the Taskio Dashboard with many of the latest featuresin managing work every day.
             </p>
           </div>
           <div className='flex-row flex gap-5'>
